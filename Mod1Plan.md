@@ -1,0 +1,11 @@
+# Beyond Mod 0
+---
+- Mod 0 has been a ride. As expected, I knew that this course would be intensive. This really fits my learning style. I have learned so much about my focus, concentration, and productivity. My productivity needs work and I am aware of the things that I can improve on. These improvements include:
+  - Giving myself a break for a few minutes when my brain and body feel overwhelmed. 
+  - When I give myself a small break grab a snack, breathe, walk to the garage for a few minutes. 
+  - Breaking down each piece of code for what it means and attempting to figure out the problem this way.
+  - Practice being excited. By this I mean, be excited about learning something new or a new milestone. Celebrate these mentally and keep moving progressively forward.
+  - Repitition, repitition, repitition.
+  - Time and space away from the keyboard and spent adventuring or pursuing my hobbies for a afternoon.
+  - I do not work during the week, so I plan to spend my mornings and afternoons on the keyboard practicing and understanding code.
+- These are all things I plan to practice between Mod 0 and carry on through out Mod 1. I am going to spend a lot of time at the keyboard and studying, but also balancing my time with appropriate breaks and a day off. I want to prep myself as much as possible for Mod 1 and everything that follows! I very much look forward to the process!
